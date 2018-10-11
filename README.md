@@ -1,3 +1,6 @@
+> Hey. I'm learning about React + Firebase and this is my project. Above, it's a default README.md text from create-react-app.
+Nery
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
